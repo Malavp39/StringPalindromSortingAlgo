@@ -1,11 +1,4 @@
-# UserManagementService
+# Fastest & Most effiecient String Palindrom Sorting Algorithm Implementation in Java
 
-1. RESTful web services for User Management
-
-2. Used HSQLDB as embedded (in-memory) database server 
-
-3. Hibernate as ORM
-
-4. Simple Web Application developed using Spring MVC which has CRUD endpoints for User Management (RESTful web services)
-
-
+Objective of this application is to write the fastest, most efficient implementation of
+palindrome-checking and string-sorting algorithms in Java.
